@@ -1,0 +1,27 @@
+# Python Bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# PyCharm Project Files
+.idea/
+
+# Python Distribution and Packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
